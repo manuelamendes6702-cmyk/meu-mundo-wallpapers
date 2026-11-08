@@ -1,0 +1,10 @@
+{
+  "name": "Meu Mundo de Wallpapers",
+  "short_name": "Wallpapers",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#d987b5",
+  "description": "Papéis de parede fofos, românticos e elegantes.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
